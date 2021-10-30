@@ -30,3 +30,8 @@ These shields have general information about me :D
 ### open source
 I believe a majority of technology and methods should be shared. Open sourcing allows for unique perspectives and for new programmers to learn from products they use.
 
+
+---
+
+### I dump random stuff on my github page
+### https://alizardguy.github.io/

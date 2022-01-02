@@ -14,7 +14,7 @@ I am alizard, a dude who dose a bit of coding and <a href="https://www.youtube.c
 
   ---
 ### my stats
-These shields have general information about me \/
+These shields have general information about me
 
 ![](https://img.shields.io/badge/OS-windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HMD-index-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -28,8 +28,7 @@ These shields have general information about me \/
 </p>
  
 ### open source
-I believe a majority of technology and methods should be shared. Open sourcing allows for unique perspectives and for new programmers to learn from products they use.
-
+It sure do
 
 ---
 

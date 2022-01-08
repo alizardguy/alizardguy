@@ -33,4 +33,4 @@ It sure do
 ---
 
 ### I dump random stuff on my github page
-### https://rep-tiled.github.io/
+### http://rep-tiled.tk/

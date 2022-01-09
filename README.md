@@ -10,7 +10,7 @@ I am alizard, a dude who dose a bit of coding and <a href="https://www.youtube.c
 
 </p>
 
-<!-- My Badges -->
+<!-- About me -->
 
   ---
 ### my stats

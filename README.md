@@ -4,7 +4,7 @@
 
 Yo <img src="https://user-images.githubusercontent.com/42082829/138939089-e54b0163-f497-4e26-afed-c6b63797d4f0.gif" width="30px">
 <br>
-I am alizard -> <a href="https://www.youtube.com/c/alizardguy">youtube</a>.
+I am alizard
 
 
 

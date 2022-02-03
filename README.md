@@ -1,10 +1,8 @@
 <!-- Banner -->
 <img width="1281" alt="Screen Shot 2021-10-26 at 11 32 49 AM" src="https://user-images.githubusercontent.com/42082829/138939710-31409614-a686-4ffd-9f42-68341c78de99.png">
 <!-- Top Area -->
-
-Yo <img src="https://user-images.githubusercontent.com/42082829/138939089-e54b0163-f497-4e26-afed-c6b63797d4f0.gif" width="30px">
 <br>
-I am alizard
+I'm lizard or alizard or alizardguy
 
 
 

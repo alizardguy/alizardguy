@@ -23,17 +23,9 @@ These shields have general information about me
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<!-- Importance of open source -->
+
  ---
 
-<p>
-  <img width="250" align='left' src="https://user-images.githubusercontent.com/42082829/138940017-2da773a8-86d8-45e7-991d-8c4c1772e6df.png?raw=true">
-</p>
- 
-### open source
-It sure do
-
----
 
 ### I dump random stuff on my github page
 ### http://rep-tiled.tk/

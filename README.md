@@ -30,4 +30,4 @@ These shields have general information about me
 ### I dump random stuff on my github page
 ### http://rep-tiled.tk/
 
-<img width="1281" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username={alizardguy}">
+<img width="1281" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizardguy">

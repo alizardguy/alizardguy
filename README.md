@@ -3,6 +3,7 @@
 <!-- Top Area -->
 
 <img width="300" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizardguy">
+<img width="300" alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alizardguy&theme=vue">
 
 </p>
 

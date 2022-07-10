@@ -3,7 +3,7 @@
 <!-- Top Area -->
 
 <img width="300" alt="coding langauges I use stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizardguy">
-I upload a lot to a group and private repos so these stats arn't accurate
+<sub>I upload a lot to a group and private repos so these stats arn't accurate</sub>
 
 </p>
 

@@ -22,8 +22,4 @@
 
  ---
 
-
-### I dump random stuff on my github page
-### http://rep-tiled.tk/
-
 <img width="300" alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alizardguy&theme=vue">

@@ -17,10 +17,7 @@
 ![](https://img.shields.io/badge/editor-VS_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-
- ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alizardguy&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<h2> Stuff I use </h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+</p>

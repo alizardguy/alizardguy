@@ -1,5 +1,7 @@
 <!-- Banner -->
-<img width="1281" alt="Screen Shot 2021-10-26 at 11 32 49 AM" src="https://user-images.githubusercontent.com/42082829/138939710-31409614-a686-4ffd-9f42-68341c78de99.png">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=alizardguy🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <!-- Top Area -->
 
 ![alizardguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizardguy&count_private=true&theme=dark)

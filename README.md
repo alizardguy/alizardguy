@@ -2,8 +2,7 @@
 <img width="1281" alt="Screen Shot 2021-10-26 at 11 32 49 AM" src="https://user-images.githubusercontent.com/42082829/138939710-31409614-a686-4ffd-9f42-68341c78de99.png">
 <!-- Top Area -->
 
-<img width="300" alt="coding langauges I use stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizardguy">
-<sub>I upload a lot to a group and private repos so these stats arn't everything</sub>
+<img width="300" alt="coding langauges I use stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizardguy&count_private=true">
 
 </p>
 

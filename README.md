@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=alizardguy&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=alizardguy&animation=fadeIn&type=waving&color=gradient&customColorList=2&height=100"/>
 </p>
 <!-- Top Area -->
 

@@ -2,7 +2,8 @@
 <img width="1281" alt="Screen Shot 2021-10-26 at 11 32 49 AM" src="https://user-images.githubusercontent.com/42082829/138939710-31409614-a686-4ffd-9f42-68341c78de99.png">
 <!-- Top Area -->
 
-<img width="300" alt="coding langauges I use stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizardguy&count_private=true">
+![alizardguy's GitHub stats](https://github-readme-stats.vercel.app/api?username=alizardguy&count_private=true&theme=dark)
+
 
 </p>
 
@@ -21,3 +22,4 @@
 
 
  ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

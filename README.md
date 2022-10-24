@@ -23,3 +23,4 @@
  ---
 
 <img width="300" alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alizardguy&theme=vue">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alizardguy&label=Profile%20views&color=0e75b6&style=flat" alt="alizardguy" /> </p>

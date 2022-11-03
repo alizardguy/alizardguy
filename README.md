@@ -16,5 +16,5 @@
 
 <h2> Stuff I use </h2>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/alizardguy/alizardguy/main/images/vscode-logo.svg" alt="vscode" width="45" height="45"/>
 </p>

@@ -18,10 +18,3 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
-
-  
-# Other profiles
-<a href="https://twitter.com/alizardguy">Twitter</a>
-
-
-<a rel="me" href="https://mastodon.social/@alizard">Mastodon</a>

@@ -12,3 +12,4 @@
 
 <h1>About Me</h1>
 https://blog.alizardguy.com/
+https://bsky.app/profile/alizardguy.com

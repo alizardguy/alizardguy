@@ -11,4 +11,4 @@
 </p>
 
 <h1>About Me</h1>
-https://blog.alizardguy.com/
+https://alizardguy.com/
